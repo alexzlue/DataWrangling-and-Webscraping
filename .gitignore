@@ -1,4 +1,3 @@
 *.ipynb_checkpoints
 pydata-book/
-Python\ for\ Data\ Analysis.pdf
-Data\ Wrangling\ with\ Python.pdf
+text/
